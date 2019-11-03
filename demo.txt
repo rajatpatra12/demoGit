@@ -1,5 +1,9 @@
 This is a demo file created by Rajat.
+<<<<<<< HEAD
 keep this by umesh
-conflict by  umesh
 
 
+=======
+
+keepthis by rajat.
+>>>>>>> db241bc8cadfa610db71d531236bf1c8adc5aefd
